@@ -1,0 +1,1 @@
+System.register(["./orientationChengeChecker-legacy-1cmuVjCo.js"],(function(t,e){"use strict";var i;return{setters:[t=>{i=t.A}],execute:function(){t({a:function(t){i.CreateAndStartAnimation("show",t,"visibility",30,20,0,1,0)},s:function(t){i.CreateAndStartAnimation("hide",t,"visibility",30,20,1,0,0)}})}}}));

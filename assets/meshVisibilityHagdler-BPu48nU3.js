@@ -1,0 +1,1 @@
+import{A as t}from"./orientationChengeChecker-C3xQHsJx.js";function e(i){t.CreateAndStartAnimation("hide",i,"visibility",30,20,1,0,0)}function n(i){t.CreateAndStartAnimation("show",i,"visibility",30,20,0,1,0)}export{n as a,e as s};
