@@ -12,9 +12,15 @@
   "categories": ["education", "automotive", "technology"],
   "icons": [
     {
-      "src": "/gkn-au-stacked.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "/Icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ],
@@ -27,7 +33,7 @@
       "url": "/index.html",
       "icons": [
         {
-          "src": "/gkn-au-stacked.svg",
+          "src": "/Icon.png",
           "sizes": "96x96"
         }
       ]
