@@ -12,13 +12,13 @@
   "categories": ["education", "automotive", "technology"],
   "icons": [
     {
-      "src": "/src/public/Icon.png",
+      "src": "/Icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/src/public/Icon.png",
+      "src": "/Icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -30,10 +30,10 @@
       "name": "Main Page",
       "short_name": "Home",
       "description": "View all differential components",
-      "url": "/src/index.html",
+      "url": "/index.html",
       "icons": [
         {
-          "src": "/src/public/Icon.png",
+          "src": "/Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -42,10 +42,10 @@
       "name": "ASLSD Differential",
       "short_name": "ASLSD",
       "description": "View ASLSD differential components",
-      "url": "/src/aslsd.html",
+      "url": "/aslsd.html",
       "icons": [
         {
-          "src": "/src/public/images/aslsd/aslsdMain.jpg",
+          "src": "/images/aslsd/aslsdMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -54,10 +54,10 @@
       "name": "DO3 Differential",
       "short_name": "DO3",
       "description": "View DO3 differential components",
-      "url": "/src/do3.html",
+      "url": "/do3.html",
       "icons": [
         {
-          "src": "/src/public/images/do3/do3Main.jpg",
+          "src": "/images/do3/do3Main.jpg",
           "sizes": "96x96"
         }
       ]
@@ -66,10 +66,10 @@
       "name": "EDD Differential",
       "short_name": "EDD",
       "description": "View EDD differential components",
-      "url": "/src/edd.html",
+      "url": "/edd.html",
       "icons": [
         {
-          "src": "/src/public/images/edd/eddMain.jpg",
+          "src": "/images/edd/eddMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -78,10 +78,10 @@
       "name": "EDL Differential",
       "short_name": "EDL",
       "description": "View EDL differential components",
-      "url": "/src/edl.html",
+      "url": "/edl.html",
       "icons": [
         {
-          "src": "/src/public/images/edl/edlMain.jpg",
+          "src": "/images/edl/edlMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -90,10 +90,10 @@
       "name": "ETM Differential",
       "short_name": "ETM",
       "description": "View ETM differential components",
-      "url": "/src/etm.html",
+      "url": "/etm.html",
       "icons": [
         {
-          "src": "/src/public/images/etm/etmMain.jpg",
+          "src": "/images/etm/etmMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -102,10 +102,10 @@
       "name": "Open Differential",
       "short_name": "Open Diff",
       "description": "View open differential components",
-      "url": "/src/openDifferential.html",
+      "url": "/openDifferential.html",
       "icons": [
         {
-          "src": "/src/public/images/openDifferential/openDifMain.jpg",
+          "src": "/images/openDifferential/openDifMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -114,10 +114,10 @@
       "name": "RDO Differential",
       "short_name": "RDO",
       "description": "View RDO differential components",
-      "url": "/src/rdo.html",
+      "url": "/rdo.html",
       "icons": [
         {
-          "src": "/src/public/images/rdo/rdoMain.jpg",
+          "src": "/images/rdo/rdoMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -126,10 +126,10 @@
       "name": "RX8 Differential",
       "short_name": "RX8",
       "description": "View RX8 differential components",
-      "url": "/src/rx8.html",
+      "url": "/rx8.html",
       "icons": [
         {
-          "src": "/src/public/images/rx81/rx81Main.jpg",
+          "src": "/images/rx81/rx81Main.jpg",
           "sizes": "96x96"
         }
       ]
@@ -138,10 +138,10 @@
       "name": "SX8 Assembly",
       "short_name": "SX8",
       "description": "View SX8 assembly components",
-      "url": "/src/sx8_asm.html",
+      "url": "/sx8_asm.html",
       "icons": [
         {
-          "src": "/src/public/images/sx8asm/sx8asmMain.jpg",
+          "src": "/images/sx8asm/sx8asmMain.jpg",
           "sizes": "96x96"
         }
       ]
