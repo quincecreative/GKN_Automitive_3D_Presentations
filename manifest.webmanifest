@@ -2,23 +2,17 @@
   "name": "GKN 3D Presentation",
   "short_name": "GKN 3D",
   "description": "Interactive 3D presentation of GKN automotive components and differential systems",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a1a1a",
   "orientation": "portrait-primary",
-  "scope": "/",
+  "scope": "./",
   "lang": "en",
   "categories": ["education", "automotive", "technology"],
   "icons": [
     {
-      "src": "/Icon.png",
-      "sizes": "150x150",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/Icon.png",
+      "src": "./Icon.png",
       "sizes": "150x150",
       "type": "image/png",
       "purpose": "any maskable"
@@ -30,10 +24,10 @@
       "name": "Main Page",
       "short_name": "Home",
       "description": "View all differential components",
-      "url": "/index.html",
+      "url": "./index.html",
       "icons": [
         {
-          "src": "/Icon.png",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -42,10 +36,10 @@
       "name": "ASLSD Differential",
       "short_name": "ASLSD",
       "description": "View ASLSD differential components",
-      "url": "/aslsd.html",
+      "url": "./aslsd.html",
       "icons": [
         {
-          "src": "/images/aslsd/aslsdMain.jpg",
+          "src": "./images/aslsd/aslsdMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -54,10 +48,10 @@
       "name": "DO3 Differential",
       "short_name": "DO3",
       "description": "View DO3 differential components",
-      "url": "/do3.html",
+      "url": "./do3.html",
       "icons": [
         {
-          "src": "/images/do3/do3Main.jpg",
+          "src": "./images/do3/do3Main.jpg",
           "sizes": "96x96"
         }
       ]
@@ -66,10 +60,10 @@
       "name": "EDD Differential",
       "short_name": "EDD",
       "description": "View EDD differential components",
-      "url": "/edd.html",
+      "url": "./edd.html",
       "icons": [
         {
-          "src": "/images/edd/eddMain.jpg",
+          "src": "./images/edd/eddMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -78,10 +72,10 @@
       "name": "EDL Differential",
       "short_name": "EDL",
       "description": "View EDL differential components",
-      "url": "/edl.html",
+      "url": "./edl.html",
       "icons": [
         {
-          "src": "/images/edl/edlMain.jpg",
+          "src": "./images/edl/edlMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -90,10 +84,10 @@
       "name": "ETM Differential",
       "short_name": "ETM",
       "description": "View ETM differential components",
-      "url": "/etm.html",
+      "url": "./etm.html",
       "icons": [
         {
-          "src": "/images/etm/etmMain.jpg",
+          "src": "./images/etm/etmMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -102,10 +96,10 @@
       "name": "Open Differential",
       "short_name": "Open Diff",
       "description": "View open differential components",
-      "url": "/openDifferential.html",
+      "url": "./openDifferential.html",
       "icons": [
         {
-          "src": "/images/openDifferential/openDifMain.jpg",
+          "src": "./images/openDifferential/openDifMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -114,10 +108,10 @@
       "name": "RDO Differential",
       "short_name": "RDO",
       "description": "View RDO differential components",
-      "url": "/rdo.html",
+      "url": "./rdo.html",
       "icons": [
         {
-          "src": "/images/rdo/rdoMain.jpg",
+          "src": "./images/rdo/rdoMain.jpg",
           "sizes": "96x96"
         }
       ]
@@ -126,10 +120,10 @@
       "name": "RX8 Differential",
       "short_name": "RX8",
       "description": "View RX8 differential components",
-      "url": "/rx8.html",
+      "url": "./rx8.html",
       "icons": [
         {
-          "src": "/images/rx81/rx81Main.jpg",
+          "src": "./images/rx81/rx81Main.jpg",
           "sizes": "96x96"
         }
       ]
@@ -138,10 +132,10 @@
       "name": "SX8 Assembly",
       "short_name": "SX8",
       "description": "View SX8 assembly components",
-      "url": "/sx8_asm.html",
+      "url": "./sx8_asm.html",
       "icons": [
         {
-          "src": "/images/sx8asm/sx8asmMain.jpg",
+          "src": "./images/sx8asm/sx8asmMain.jpg",
           "sizes": "96x96"
         }
       ]
