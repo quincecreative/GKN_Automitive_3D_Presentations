@@ -39,7 +39,7 @@
       "url": "./aslsd.html",
       "icons": [
         {
-          "src": "./images/aslsd/aslsdMain.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -51,7 +51,7 @@
       "url": "./do3.html",
       "icons": [
         {
-          "src": "./images/do3/do3Main.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -63,7 +63,7 @@
       "url": "./edd.html",
       "icons": [
         {
-          "src": "./images/edd/eddMain.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -75,7 +75,7 @@
       "url": "./edl.html",
       "icons": [
         {
-          "src": "./images/edl/edlMain.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -87,7 +87,7 @@
       "url": "./etm.html",
       "icons": [
         {
-          "src": "./images/etm/etmMain.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -99,7 +99,7 @@
       "url": "./openDifferential.html",
       "icons": [
         {
-          "src": "./images/openDifferential/openDifMain.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -111,7 +111,7 @@
       "url": "./rdo.html",
       "icons": [
         {
-          "src": "./images/rdo/rdoMain.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -123,7 +123,7 @@
       "url": "./rx8.html",
       "icons": [
         {
-          "src": "./images/rx81/rx81Main.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
@@ -135,7 +135,7 @@
       "url": "./sx8_asm.html",
       "icons": [
         {
-          "src": "./images/sx8asm/sx8asmMain.jpg",
+          "src": "./Icon.png",
           "sizes": "96x96"
         }
       ]
